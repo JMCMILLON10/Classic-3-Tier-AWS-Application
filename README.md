@@ -23,3 +23,5 @@ Before scaling complexity, master stability.
 Before adding layers, understand flow.
 
 Fundamentals are the multiplier.
+
+![image alt](https://github.com/JMCMILLON10/Classic-3-Tier-AWS-Application/blob/main/Diagram.png)
